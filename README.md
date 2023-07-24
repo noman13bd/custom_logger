@@ -6,7 +6,7 @@ To run the project ..
   python3 -m venv env
   source env/bin/activate
 )
-3. install the required plugins (pip install -r requirements.txt)
+3. install the required plugins (pip install -r requirement.txt)
 4. run project (uvicorn app.main:app)
 5. everything will be logged in access.log file in the root folder
 6. sample end points (
